@@ -5,7 +5,7 @@ import jrpg.Character
 
 class testsCharacter extends FunSuite {
   test("test") {
-    val char1: Character = new Character(50, 50, 50, 50, 50, 50, 50, 50)
+    /*val char1: Character = new Character(50, 50, 50, 50, 50, 50, 50, 50)
     val char2: Character = new Character(100, 100, 100, 100, 100, 100, 100, 100)
     char1.takeDamage(50)
     char2.takeDamage(99)
@@ -31,7 +31,7 @@ class testsCharacter extends FunSuite {
     assert(char5.playerLevel == 3)
     assert(char5.expPoints == 5)
     assert(char5.Att == 70)
-
+*/
 
 
   }
